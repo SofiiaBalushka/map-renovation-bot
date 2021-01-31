@@ -1,6 +1,5 @@
 import requests
 import telebot
-from telebot import types
 
 import config
 import states
